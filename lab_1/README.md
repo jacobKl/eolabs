@@ -1,3 +1,6 @@
+# My comment
+I have not been able to pull large files with LFS due to exceeded quota, however I obtained files needed to complete this excercise in other way. I am not pushing that huge files to branch.
+
 # EO Labs
 
 Practical notebooks for exploring Earth Observation data with Python.
