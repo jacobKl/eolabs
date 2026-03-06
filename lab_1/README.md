@@ -1,6 +1,3 @@
-# My comment
-Solutions for each laboratories are being implemented on dedicated lab branch. Done this way to allow easy sync with original repo.
-
 # EO Labs
 
 Practical notebooks for exploring Earth Observation data with Python.
